@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RohanRuby
 - 👀 I’m interested in python/Java
-- 🌱 I’m currently learning py4e and cs61b
 - 💞️ I’m looking to collaborate on making simple projects
-- 📫 How to reach me 752298431@qq.com
+- 📫 How to reach me liruohan1997@gmail.com
 
 <!---
 RohanRuby/RohanRuby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
