@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RohanRuby
 - 👀 I’m interested in python/Java
-- 💞️ I’m looking to collaborate on making simple projects
 - 📫 How to reach me liruohan1997@gmail.com
 
 <!---
